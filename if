@@ -1,0 +1,11 @@
+#!/bin/bash
+
+opi=1
+
+
+if [ $opi -eq 1 ] ;then
+
+echo $opi
+else 
+	echo "ninguna varivale"
+fi
